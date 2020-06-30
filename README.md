@@ -1,1 +1,1 @@
-#just some algorithm practice
+# Just some algorithm practice
